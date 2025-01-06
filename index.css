@@ -1,0 +1,38 @@
+.container {
+
+    height: 650px;
+    background-color: rgb(152, 158, 236);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 7px;
+
+}
+
+.box {
+
+    height: 500px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.box input {
+    border-radius: 6px;
+    background-color: azure;
+    border-color: rgb(215, 211, 211);
+    border: none;
+    font-size: 25px;
+}
+
+.word {
+    margin: 20px;
+    font-size: 25px;
+    font-style: bold;
+}
+
+.definition {
+    margin: 20px;
+    font-size: 15px;
+}
